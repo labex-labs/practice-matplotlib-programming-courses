@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 </div>
 
-Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. This Skill Tree offers a structured learning path for mastering data visualization with Matplotlib. Ideal for data science beginners, it provides a clear roadmap to understand plot types, customization, and integration with data analysis workflows. Through hands-on, non-video courses and practical exercises in an interactive plotting playground, you'll gain real-world experience in creating compelling data visualizations.
 
 |   Index | Name                                                                                            | Level   | Repo                                                                      | Course Link                                                           |
 |---------|-------------------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -15,15 +15,15 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
