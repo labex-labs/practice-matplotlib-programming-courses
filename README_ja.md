@@ -12,9 +12,9 @@ Matplotlib は、静的、アニメーション、インタラクティブな視
 
 |   インデックス | 名前                                                                                              | 難易度   | Repo                                                                       | 練習                                                                           |
 |----------------|---------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|              1 | [Matplotlib のクイックスタート](https://labex.io/ja/courses/quick-start-with-matplotlib)          | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-matplotlib)       |
-|              2 | [Matplotlib 実践ラボ](https://labex.io/ja/courses/matplotlib-practice-labs)                       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 ラボを開始](https://labex.io/ja/courses/matplotlib-practice-labs)          |
-|              3 | [Seaborn によるデータ可視化の基礎](https://labex.io/ja/courses/seaborn-data-visualization-basics) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 ラボを開始](https://labex.io/ja/courses/seaborn-data-visualization-basics) |
+|              1 | [Matplotlib のクイックスタート](https://labex.io/ja/courses/quick-start-with-matplotlib)          | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-matplotlib)       |
+|              2 | [Matplotlib 実践ラボ](https://labex.io/ja/courses/matplotlib-practice-labs)                       | 初級     | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 ラボを開始](https://labex.io/ja/courses/matplotlib-practice-labs)          |
+|              3 | [Seaborn によるデータ可視化の基礎](https://labex.io/ja/courses/seaborn-data-visualization-basics) | 初級     | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 ラボを開始](https://labex.io/ja/courses/seaborn-data-visualization-basics) |
 
 ## その他
 
