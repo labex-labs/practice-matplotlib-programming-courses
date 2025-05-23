@@ -12,9 +12,9 @@ Matplotlib 는 정적, 애니메이션 및 대화형 시각화를 생성하기 �
 
 |   인덱스 | 이름                                                                                        | 난이도   | Repo                                                                       | 연습                                                                          |
 |----------|---------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|        1 | [Matplotlib 퀵 스타트](https://labex.io/ko/courses/quick-start-with-matplotlib)             | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-matplotlib)       |
-|        2 | [Matplotlib 실습 랩](https://labex.io/ko/courses/matplotlib-practice-labs)                  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 실습 시작](https://labex.io/ko/courses/matplotlib-practice-labs)          |
-|        3 | [Seaborn 데이터 시각화 기본](https://labex.io/ko/courses/seaborn-data-visualization-basics) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 실습 시작](https://labex.io/ko/courses/seaborn-data-visualization-basics) |
+|        1 | [Matplotlib 퀵 스타트](https://labex.io/ko/courses/quick-start-with-matplotlib)             | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-matplotlib)       |
+|        2 | [Matplotlib 실습 랩](https://labex.io/ko/courses/matplotlib-practice-labs)                  | 초급     | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 실습 시작](https://labex.io/ko/courses/matplotlib-practice-labs)          |
+|        3 | [Seaborn 데이터 시각화 기본](https://labex.io/ko/courses/seaborn-data-visualization-basics) | 초급     | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 실습 시작](https://labex.io/ko/courses/seaborn-data-visualization-basics) |
 
 ## 더 보기
 
