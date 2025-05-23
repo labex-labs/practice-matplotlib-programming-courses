@@ -12,9 +12,9 @@ Matplotlib 是一个功能全面的 Python 库，用于创建静态、动态和�
 
 |   序号 | 名称                                                                                    | 难度   | Repo                                                                       | 练习                                                                         |
 |--------|-----------------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|      1 | [Matplotlib 快速入门](https://labex.io/zh/courses/quick-start-with-matplotlib)          | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-matplotlib)       |
-|      2 | [Matplotlib 实践实验室](https://labex.io/zh/courses/matplotlib-practice-labs)           | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 开始实验](https://labex.io/zh/courses/matplotlib-practice-labs)          |
-|      3 | [Seaborn 数据可视化基础](https://labex.io/zh/courses/seaborn-data-visualization-basics) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 开始实验](https://labex.io/zh/courses/seaborn-data-visualization-basics) |
+|      1 | [Matplotlib 快速入门](https://labex.io/zh/courses/quick-start-with-matplotlib)          | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-matplotlib)       |
+|      2 | [Matplotlib 实践实验室](https://labex.io/zh/courses/matplotlib-practice-labs)           | 初级   | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 开始实验](https://labex.io/zh/courses/matplotlib-practice-labs)          |
+|      3 | [Seaborn 数据可视化基础](https://labex.io/zh/courses/seaborn-data-visualization-basics) | 初级   | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 开始实验](https://labex.io/zh/courses/seaborn-data-visualization-basics) |
 
 ## 更多
 
