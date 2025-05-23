@@ -12,9 +12,9 @@ Matplotlib is a comprehensive Python library for creating static, animated, and 
 
 |   Index | Name                                                                                            | Difficulty   | Repo                                                                       | Practice                                                                   |
 |---------|-------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|       1 | [Quick Start with Matplotlib](https://labex.io/courses/quick-start-with-matplotlib)             | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 Start Lab](https://labex.io/courses/quick-start-with-matplotlib)       |
-|       2 | [Matplotlib Practice Labs](https://labex.io/courses/matplotlib-practice-labs)                   | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 Start Lab](https://labex.io/courses/matplotlib-practice-labs)          |
-|       3 | [Seaborn Data Visualization Basics](https://labex.io/courses/seaborn-data-visualization-basics) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 Start Lab](https://labex.io/courses/seaborn-data-visualization-basics) |
+|       1 | [Quick Start with Matplotlib](https://labex.io/courses/quick-start-with-matplotlib)             | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)       | [🚀 Start Lab](https://labex.io/courses/quick-start-with-matplotlib)       |
+|       2 | [Matplotlib Practice Labs](https://labex.io/courses/matplotlib-practice-labs)                   | Beginner     | [🔗 Repo](https://github.com/labex-labs/matplotlib-practice-labs)          | [🚀 Start Lab](https://labex.io/courses/matplotlib-practice-labs)          |
+|       3 | [Seaborn Data Visualization Basics](https://labex.io/courses/seaborn-data-visualization-basics) | Beginner     | [🔗 Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [🚀 Start Lab](https://labex.io/courses/seaborn-data-visualization-basics) |
 
 ## More
 
